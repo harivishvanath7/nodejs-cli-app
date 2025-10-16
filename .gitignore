@@ -1,0 +1,55 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Build output
+dist/
+build/
+.cache/
+.next/
+out/
+coverage/
+.temp/
+.tmp/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc
+*.tgz
+
+# Optional: if using parcel, vite, or similar
+.parcel-cache/
+.vite/
